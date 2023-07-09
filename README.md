@@ -1,2 +1,2 @@
-# Codewars
-All I made on the Codewars
+## My self-learning
+All I made by myself
