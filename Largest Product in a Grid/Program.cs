@@ -1,4 +1,7 @@
-﻿using System.Numerics;
+// DESCRIPTION:
+// Find the four adjacent digits in the grid that have the greatest product
+
+using System.Numerics;
 
 namespace Largest_Product_in_a_Grid
 {
