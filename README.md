@@ -1,2 +1,2 @@
 ## My self-learning
-All I made by myself
+All I made by myself in console
