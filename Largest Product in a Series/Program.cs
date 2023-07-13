@@ -1,4 +1,7 @@
-﻿namespace Largest_Product_in_a_Series
+// DESCRIPTION:
+// Find the chosen number of adjacent digits in the chosen number of random digits that have the greatest product
+
+namespace Largest_Product_in_a_Series
 {
     internal class Program
     {
